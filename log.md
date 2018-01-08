@@ -29,3 +29,11 @@
 **Thoughts**: I'm now a bit more familiar with using APIs. I am a bit lazy doing the design for the project so I just made a simple design that looks okay.
 
 **Link to work**: [Weather and Geolocation](https://codepen.io/freeCodeCamp/full/wGqEga)
+
+### Day 5: January 8, 2018
+
+**Today's Progress**: Done a few query and put in a template for FCC's wikipedia page
+
+**Thoughts**: Didn't progress as much as I like because I was multitasking. Shouldn't do that next time. The time to do this increased to 2 hours and didn't finish :(
+
+**Link to work**: None
